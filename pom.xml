@@ -4,13 +4,13 @@
 
     <groupId>org.dulani.wallace</groupId>
     <artifactId>test</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
     <name>DulaniWallace</name>
 
     <scm>
         <connection>scm:git:git@github.com:dulanism/java-test.git</connection>
-      <tag>HEAD</tag>
+      <tag>test-1.0.1</tag>
     </scm>
 
     <dependencies>
